@@ -6,7 +6,7 @@ body {
 header {
    background-color: navy;
    padding: 20px;
-   width: 1100px;
+   width: 100%;
 }
 
 
@@ -98,6 +98,7 @@ article:hover {
 
 .page {
    width: 80px;
+   height: 120px;
    position: relative;
    bottom: 100px;
 }
@@ -112,7 +113,7 @@ article:hover {
 footer {
    background-color: #8fddf2;
    padding: 10px;
-   width: 1100px;
+   width: 100%;
 }
 
 
